@@ -1,7 +1,7 @@
 # Robot Controller Project
 
 ## Description
-The Robot Controller Project is a PHP application designed to control a robot's movements based on user instructions. The project includes a RobotController class that executes instructions provided to a robot and generates a file containing the final position of the robot.
+The Robot Parser Project is a PHP application designed to control a robot's movements based on user instructions. The project includes a RobotController class that executes instructions provided to a robot and generates a file containing the final position of the robot.
 
 ## Project Structure
 The project structure is organized as follows:
