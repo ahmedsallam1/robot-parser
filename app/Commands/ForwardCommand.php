@@ -9,4 +9,3 @@ class ForwardCommand implements RobotCommand {
         $robot->forward();
     }
 }
-?>

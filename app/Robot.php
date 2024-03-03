@@ -30,4 +30,3 @@ class Robot {
         return "x={$this->x} y={$this->y}";
     }
 }
-?>

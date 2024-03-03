@@ -31,4 +31,4 @@ class RobotController {
         $this->fileGeneratorService->generateFile(sprintf("%s => %s", $instructions, $finalPosititon), 'final_positions.txt');
     }
 }
-?>
+

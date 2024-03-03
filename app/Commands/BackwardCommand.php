@@ -9,4 +9,3 @@ class BackwardCommand implements RobotCommand {
         $robot->backward();
     }
 }
-?>

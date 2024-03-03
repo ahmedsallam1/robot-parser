@@ -9,4 +9,4 @@ class LeftCommand implements RobotCommand {
         $robot->left();
     }
 }
-?>
+

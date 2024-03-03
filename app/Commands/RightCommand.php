@@ -9,4 +9,3 @@ class RightCommand implements RobotCommand {
         $robot->right();
     }
 }
-?>
