@@ -29,6 +29,23 @@ robot-parser/
 ├── composer.lock
 └── README.md
 ```
+
+## Requirements
+Each instruction character makes the robot move one step in certain direction:
+```
+F => forward y + 1 
+
+B => forward y - 1 
+
+R => forward x + 1 
+
+L => forward x - 1 
+```
+
+## Assumptions
+- Robot initial position is x=0, y=0
+- In case of empty instructions the robot should be at initial position.
+
 ## Installation
 To install the project locally, follow these steps:
 
